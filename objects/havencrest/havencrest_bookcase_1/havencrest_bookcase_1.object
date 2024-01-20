@@ -26,8 +26,8 @@
     }
   ],
 
-  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
-  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
   "slotCount" : 32,
   "uiConfig" : "/interface/chests/chest<slots>.config",
   "frameCooldown" : 5,
